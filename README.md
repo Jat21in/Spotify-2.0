@@ -13,7 +13,7 @@
 
 [🚀 Live Demo](https://spotify-2-0-jade.vercel.app/) • [📚 Docs](https://github.com/Jat21in/Spotify-2.0/) • [🐛 Report Bug](https://github.com/Jat21in/Spotify-2.0/)
 
-<img src="public/spotify-clone-dashboard.png" alt="Spotify 2.0 Clone Dashboard" width="700"/>
+<img src="dashboard.png" alt="Spotify 2.0 Clone Dashboard" width="700"/>
 
 </div>
 
